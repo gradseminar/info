@@ -8,6 +8,7 @@ Most talks are expository talks about mathematical topics, but we also accept ta
 
 ### Location and Schedule
 Thursdays BA 6183 @ 3:00
+
 [Schedule](https://docs.google.com/spreadsheets/d/1xlb87BfQ7QwwT29vOM1tZtzqs3s_ZVXEzuz2Oj_yjGk/edit?usp=sharing)
 
 ### Signup
