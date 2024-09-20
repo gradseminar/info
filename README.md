@@ -1,5 +1,5 @@
 # Mathematics Graduate Student Seminar
-## University of Toronto Mathematics Graduate Student Assosiation
+## University of Toronto Mathematics Graduate Student Association
 
 ### Information
 The Mathematics Graduate Student Seminar is a weekly seminar for graduate students at the University of Toronto to present mathematics they are interested in. 
